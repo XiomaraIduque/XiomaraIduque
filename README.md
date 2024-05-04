@@ -1,4 +1,4 @@
 ### Hi there 👋
-### I am a junior web developer, passionate about frontend and ux ui design. 💌
-- ### I worked at the company Resolve 💼
-- ### My contact (+57 3146314668)
+_I am a junior web developer, passionate about frontend and ux ui design._ 💌
+- _I worked at the company_ **Resolve** 💼
+- _My contact_ **(+573146314668)**
