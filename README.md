@@ -1,5 +1,4 @@
 <-- Hi there 👋
-I am a junior web developer, passionate about frontend and ux ui design.
-- I worked at the company Resolve
-- 3005981431
+I am a junior web developer, passionate about frontend and ux ui design. 💌
+- I worked at the company Resolve 💼
 -->
