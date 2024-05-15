@@ -2,7 +2,7 @@
 <h3 align="center">Desarrolladora de software</h3>
 <br/>
 
-- _I am a junior web developer, passionate about frontend and ux ui design._ 💌
+- _soy desarrolladora web junior, apasionada por el fronted y el diseño UX|IU._ 💌
 - Estudiante certificado en el **SENA Carrera tecnólogica en analísis y desarrollo de software.**🎓
 - También comenzando un **Curso en diseño UX|IU en Google** 👨🏽‍💻
 - _I worked at the company_ **Resolve.** 💼
