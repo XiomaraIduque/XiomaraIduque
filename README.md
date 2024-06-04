@@ -8,7 +8,8 @@
 - _Trabajé en la compañia_ **Resolve.** 💼
 - _Busco roles que me permitan emplear y ampliar mi conocimiento en estos_ **frameworks** _y lenguajes de programación, aceptando oportunidades laborales en el_ **mercado de IT**.
 - _Un poco sobre mis hobbies_ **Entreno danza urbana, _voy al gym y me gusta_ filosofia.** ✨
-- _My contact_ **(+573146314668)** 📞
+- _My contacto_ **(+573146314668)** 📞
+- _My portafolio_ **https://xiomaraiduque.github.io/Portafolio_Xiomaradev/**
 
 
 <h3 align="center">Lenguajes y herramientas:</h3>
