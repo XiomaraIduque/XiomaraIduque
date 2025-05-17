@@ -2,10 +2,10 @@
 <h3 align="center">Desarrolladora de software</h3>
 <br/>
 
-- _Soy desarrolladora web junior, tengo 20 años, apasionada por el fronted y el diseño UX|IU._ 💌
-- _Estudiante certificado en el_ **SENA Carrera tecnólogica en analísis y desarrollo de software.** 🎓
-- _También comenzando un_ **Curso en diseño UX|IU en Google.** 👨🏽‍💻
-- _Trabajé en la compañia_ **Resolve.** 💼
+- _Soy desarrolladora web junior, tengo 21 años, apasionada por el fronted y el diseño UX|IU._ 💌
+- _Estudiante certificado como_ **Carrera tecnólogica en analísis y desarrollo de software.** 🎓
+- _Experiencia como_ **FullStack**  👨🏽‍💻
+- _Trabajé en la compañia_ **Resolve.ia** 💼
 - _Busco roles que me permitan emplear y ampliar mi conocimiento en estos_ **frameworks** _y lenguajes de programación, aceptando oportunidades laborales en el_ **mercado de IT**.
 - _Un poco sobre mis hobbies_ **Entreno danza urbana, _voy al gym y me gusta_ filosofia.** ✨
 - _My contacto_ **(+573146314668) 📞WhatsApp**
