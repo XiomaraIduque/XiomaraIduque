@@ -2,7 +2,7 @@
 <h3 align="center">Desarrolladora de software</h3>
 <br/>
 
-- _Soy desarrolladora web junior, tengo 21 años, apasionada por el fronted y el diseño UX|IU._ 💌
+- _Soy desarrolladora web junior, tengo 22 años, apasionada por el fronted y el diseño UX|IU._ 💌
 - _Estudiante certificado como_ **Carrera tecnólogica en analísis y desarrollo de software.** 🎓
 - _Experiencia como_ **FullStack**  👨🏽‍💻
 - _Trabajé en la compañia_ **Resolve.ia** 💼
